@@ -1,5 +1,6 @@
 # API_user_management
 
+In this project mysql database is used.
 1. controller--> contains handler function implementation for api
 2. file_handler--> This file has open csv file, read csv file and write to json file 
 3. validation--> validates all the data in csv file
